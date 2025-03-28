@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/pcpc/webots_project/GO2/build",
+  "command": "/usr/bin/g++  -I/usr/local/webots/include/controller/c -I/usr/local/webots/include/controller/cpp -I/usr/include/eigen3 -I/usr/include/json/include -g -o CMakeFiles/dog_supervisor.dir/dog_supervisor.cpp.o -c /home/pcpc/webots_project/GO2/controllers/dog_supervisor/dog_supervisor.cpp",
+  "file": "/home/pcpc/webots_project/GO2/controllers/dog_supervisor/dog_supervisor.cpp",
+  "output": "CMakeFiles/dog_supervisor.dir/dog_supervisor.cpp.o"
+}
+]

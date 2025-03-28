@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/dog_supervisor.dir/dog_supervisor.cpp.o -o dog_supervisor   -L/usr/local/webots/lib/controller  -Wl,-rpath,/usr/local/webots/lib/controller -lm -lController -lCppController
